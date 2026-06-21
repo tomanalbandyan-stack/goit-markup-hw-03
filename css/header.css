@@ -18,11 +18,11 @@
 }
 
 .nav-link:hover {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 .nav-link:active {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 .nav-link {
@@ -45,5 +45,9 @@
 }
 
 .contacts-link:hover {
-    color: #4D5AE5;
+    color: #404bbf;
+}
+
+.contacts-link:focus {
+    color: #404bbf;
 }
