@@ -17,6 +17,10 @@
     color: #4D5AE5;
 }
 
+.nav-link:focus {
+    color: #404bbf;
+}
+
 .nav-link:hover {
     color: #404bbf;
 }
