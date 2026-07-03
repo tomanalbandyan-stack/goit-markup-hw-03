@@ -8,6 +8,16 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    margin-bottom: 8px;
+}
+
+.features-list {
+    display: flex;
+    gap: 24px;
+}
+
+.features-item {
+    width: 264px;
 }
 
 .features-text {
