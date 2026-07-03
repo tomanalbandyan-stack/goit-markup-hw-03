@@ -5,7 +5,6 @@
 
 .header .container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
@@ -24,6 +23,10 @@
     color: #4D5AE5;
 }
 
+.nav {
+    margin-left: 76px;
+}
+
 .nav-list {
     display: flex;
     gap: 40px;
@@ -36,6 +39,7 @@
     letter-spacing: 0.02em;
     text-decoration: none;
     color: #2E2F42;
+    display: block;
     padding-top: 24px;
     padding-bottom: 24px;
 }
@@ -47,6 +51,10 @@
 
 .nav-link:active {
     color: #404bbf;
+}
+
+.contacts {
+    margin-left: auto;
 }
 
 .contacts-list{
@@ -62,6 +70,7 @@
     letter-spacing: 0.02em;
     text-decoration: none;
     color: #434455;
+    display: block;
     padding-top: 24px;
     padding-bottom: 24px;
 }

@@ -22,10 +22,7 @@
 .team-card img {
     display: block;
     width: 100%;
-    height: 260px;
-    object-fit: cover;
 }
-
 
 .team-content {
     display: flex;
